@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "bluetooth": "*",
-        "pxt-carcntrol": "github:hokarimasahiro/pxt-carcontrol#89042620004142760f0c4469b77792dae1070014",
+        "pxt-carcntrol": "github:hokarimasahiro/pxt-carcontrol#5edbb49476c27928510eb587f20faecc22e48cdc",
         "microphone": "*"
     },
     "files": [
@@ -18,7 +18,7 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "yotta": {
         "config": {
             "microbit-dal": {
