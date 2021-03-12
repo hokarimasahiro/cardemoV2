@@ -137,5 +137,5 @@ basic.forever(function () {
             led.unplot(4, 2)
         }
     }
-    basic.pause(10)
+    basic.pause(2)
 })
